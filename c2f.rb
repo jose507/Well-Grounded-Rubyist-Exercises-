@@ -1,4 +1,4 @@
-print "Enter the ttemp you want to convert: "
+print "Enter the temp you want to convert: "
 celsius = gets
 fahrenheit = (celsius.to_i * 9 / 5) + 32
 print "The results is "
